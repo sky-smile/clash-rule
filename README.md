@@ -1,0 +1,2 @@
+# clash-rule
+clash rule
