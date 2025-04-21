@@ -97,8 +97,8 @@ rule-providers:
     interval: 86400
     format: yaml
     type: http
-  Direct:
-    url: https://raw.githubusercontent.com/sky-smile/clash-rule/refs/heads/main/Direct.yaml
+  MyDirect:
+    url: https://raw.githubusercontent.com/sky-smile/clash-rule/refs/heads/main/MyDirect.yaml
     path: ./ruleset/steam.yaml
     behavior: classical
     interval: 86400
@@ -192,7 +192,7 @@ proxy-groups:
     type: select
 
 rules:
-  - "RULE-SET,Direct,DIRECT"
+  - "RULE-SET,MyDirect,DIRECT"
   - "RULE-SET,private,DIRECT"
   - "RULE-SET,bing,AIGC"
   - "RULE-SET,copilot,AIGC"
