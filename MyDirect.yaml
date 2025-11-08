@@ -7,8 +7,6 @@ payload:
   - DOMAIN-SUFFIX,client.wns.windows.com
   - DOMAIN-SUFFIX,lanzov.com
   - DOMAIN-SUFFIX,hao123.com
-  - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,cdn.linux.do
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,sm.ms
 
