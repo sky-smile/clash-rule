@@ -3,7 +3,8 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,butterfly.js.org
-
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,cdn.linux.do
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,google
